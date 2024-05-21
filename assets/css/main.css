@@ -147,6 +147,11 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
+	.headerText {
+		background-color: rgba(67, 66, 66, 0.66);
+		color: solid white;
+	}
+
 		header > p {
 			margin: 1em 0 0 0;
 		}
@@ -154,6 +159,7 @@ input, select, textarea {
 	footer {
 		margin: 2em 0 0 0;
 	}
+
 
 	strong, b {
 		font-weight: 300;
@@ -1866,6 +1872,9 @@ ul.icons {
 		white-space: nowrap;
 		font-size: large;
 	}
+	.jsicon {
+		padding-top: 50px;
+	}
 
 /* Form */
 
@@ -2285,7 +2294,7 @@ ul.icons {
 			#main > section.one {
 				background-color: #238170;
 				opacity: 1;
-				background-image: url("../../images/");
+				background-image: url("../../images/vietnamlake.jpg");
 			}
 
 			#main > section.two {
